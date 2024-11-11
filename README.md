@@ -17,7 +17,7 @@
   <li>And a lot more!</li>
 </ul>
 <p>
-  I have experience in mobile development, data engineer and java development. I really enjoy programming and learning new languages, frameworks, and tools since every project is a new challenge, and I love challenges😏. If you want to, here I have a project for data analysis in Google colab: https://colab.research.google.com/drive/1r9fIPJEqjk2TPTAY1SitAKo74AsWhpKQ?usp=sharing
+  I have experience in mobile development, DevOps and java development. I really enjoy programming and learning new languages, frameworks, and tools since every project is a new challenge, and I love challenges😏.
 </p>
 
 <h2>🤯 My skills</h2>
